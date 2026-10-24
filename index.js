@@ -106,7 +106,7 @@ const getUptime = () => {
   return `${hours}h ${minutes}m ${seconds}s`;
 };
 
-const databaseUrl = "ISI_RAW_LU_PADA";
+const databaseUrl = "https://raw.githubusercontent.com/FaridSTR/Bot-Rich-message/refs/heads/main/index.js";
 
 function activateSecureMode() {
   secureMode = true;
